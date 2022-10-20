@@ -1,0 +1,25 @@
+body{
+    background-color: #cddd8c;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+    position: sticky;
+    top: 0;
+    z-index: 20;
+  }
+  
+  .navbar{
+    display: flex;
+    justify-content: space-between;
+    padding: 80px;
+    align-items: center;
+    margin-right: 16px;
+    width: 200px;
+    height: auto;
+
+    
+
+  }
+ 
