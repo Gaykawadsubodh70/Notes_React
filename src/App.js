@@ -9,7 +9,7 @@ function App() {
   // let title="Welcome";
   return (
     <div className="App">
-      <Navbar/>
+      <Navbar />
       {/* <Navbar passedDate={date} passedTitle={title} passedAmount={amount} /> */}
     </div>
   );
